@@ -1,0 +1,26 @@
+<EditForm Model = "routeInfo" OnValidSubmit="HandleValidSubmit">
+    <div class="mb-3 mt-3">
+        <label for="start-location" class="form-labe">Start Location</label>
+        <input type="text" class="form-control" id="start-location" placeholder="Enter Start Location" @bind-value="routeInfo.StartLocation">
+    </div>
+    <div class="mb-3 mt-3">
+        <label for="final-location" class="form-labe">Final Location</label>
+        <input type="text" class="form-control" id="final-location" placeholder="Enter Final Location" @bind-value="routeInfo.FinalLocation">
+    </div>
+</EditForm>
+
+@code
+{
+    private RouteInfo routeInfo = new RouteInfo();
+    private bool isSubmitted;
+    public class RouteInfo
+    {
+        public double StartLocation {get; set;}
+        public double FinalLocation {get; set;}
+    }
+
+    private void HandleValidSubmit()
+    {
+        isSubmitted = true;
+    }
+}

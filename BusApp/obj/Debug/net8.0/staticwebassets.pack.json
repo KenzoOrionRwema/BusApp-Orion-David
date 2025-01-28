@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/home/rwema/Documents/projects/Bus App/BusApp/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/rwema/Documents/projects/Bus App/BusApp/obj/Debug/net8.0/compressed/0toov3mz01.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/rwema/Documents/projects/Bus App/BusApp/obj/Debug/net8.0/scopedcss/bundle/BusApp.styles.css",
+      "PackagePath": "staticwebassets/BusApp.styles.css"
+    },
+    {
+      "Id": "/home/rwema/Documents/projects/Bus App/BusApp/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/rwema/Documents/projects/Bus App/BusApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/rwema/Documents/projects/Bus App/BusApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/rwema/Documents/projects/Bus App/BusApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/rwema/Documents/projects/Bus App/BusApp/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/rwema/Documents/projects/Bus App/BusApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/rwema/Documents/projects/Bus App/BusApp/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BusApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BusApp.props",
+      "PackagePath": "build\\BusApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BusApp.props",
+      "PackagePath": "buildMultiTargeting\\BusApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BusApp.props",
+      "PackagePath": "buildTransitive\\BusApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
