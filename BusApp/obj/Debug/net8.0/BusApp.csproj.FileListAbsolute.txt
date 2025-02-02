@@ -1029,3 +1029,4 @@
 /home/rwema/Documents/projects/Bus App/BusApp/obj/Debug/net8.0/refint/BusApp.dll
 /home/rwema/Documents/projects/Bus App/BusApp/obj/Debug/net8.0/BusApp.pdb
 /home/rwema/Documents/projects/Bus App/BusApp/obj/Debug/net8.0/ref/BusApp.dll
+/home/rwema/Documents/projects/Bus App/BusApp/obj/Debug/net8.0/BusApp.sourcelink.json
