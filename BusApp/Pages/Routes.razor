@@ -1,0 +1,31 @@
+@page "/routes"
+@using BusApp.Models
+
+<div class="row">
+    <ul>
+    @for(int i = 0; i <= 15; i++)
+    {
+        <div class="card col-12 m-3">
+            <div class="card-body">
+                <h1></h1>
+            </div>
+        </div>
+    }
+    </ul>
+</div>
+
+@code
+{
+    [Parameter]
+
+    public Leg[] legs {get; set;}
+    
+    public class Leg
+    {
+        public int origin {get; set;}
+        public int destination {get; set;}
+
+        public Time departureTime {get; set;}
+        public Time arrivalTime {get; set;}
+    }
+}

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BusApp",
   "resources": {
-    "hash": "sha256-yn0pkJwR123Xeb9YP8cL3wK1T2wClfE/6adddOwnzB8=",
+    "hash": "sha256-DNpZ2he0C21iOyuIduI3tNOzb/QRlS0i1ePVBC3jnio=",
     "jsModuleNative": {
       "dotnet.native.8.0.12.tyyvge7e44.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -39,6 +39,11 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-pVrYOTfjb2ITls3LKIByW1t8jwOAWFhmkIVDewtJ1GE=",
       "Microsoft.JSInterop.wasm": "sha256-Io6aK2hSUL4m2prTnsWGWosE7cw/c/7mj3BAxlDuDjY=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-hcEp3tuBjwv8iSHAFSZG7AZV1aZYHr9VqnSGg1D6WgI=",
+      "Newtonsoft.Json.wasm": "sha256-erKuIr8Gjq+X/Ji4X+pGauW71/eyGT7GHVu8k+7ie8I=",
+      "Syncfusion.Blazor.wasm": "sha256-7vPXUWr9lHCLZjU3le6+QOmvs7Phb+5TTaPbCVIL2kE=",
+      "Syncfusion.ExcelExport.Net.wasm": "sha256-3tH0KS9hAucyNuQ34IQvoDXB4o0vvcoBfFj7n/8u+s4=",
+      "Syncfusion.Licensing.wasm": "sha256-CYvuE+UkdBJFJMYexkpuGXUXsGG/J0X/kOHFYMyfJPY=",
+      "Syncfusion.PdfExport.Net.wasm": "sha256-ksbi6CUzT/j9WtvJy3QzSvQNuewPQOR1miCNL0sZGho=",
       "System.IO.Pipelines.wasm": "sha256-JqVBy6SV+3qk+IK3VJiyIDt9CsVk6b1/ytTXmrI4mTM=",
       "Microsoft.CSharp.wasm": "sha256-zohYihZLqZl3Vs/WUXlbmBw6sSRhBg6suf/7sRlQmto=",
       "Microsoft.VisualBasic.Core.wasm": "sha256-MXkT7wYyI3D507DKaCtbF1jAArGlavK3uKcKTAI66GE=",
@@ -208,10 +213,10 @@
       "mscorlib.wasm": "sha256-QoC5hTKpDNO6efLnEvYwV9OJBXvYRq8/1yGhNZKiNCw=",
       "netstandard.wasm": "sha256-JT2F4bYWJpaSGq+iD0ITLpWxsDhMUjhqje9RpBtTg7w=",
       "System.Private.CoreLib.wasm": "sha256-fvIPBcvgvsRuWrKi2LGQsLYvcKUSnyIuBUsE3LJu/0Y=",
-      "BusApp.wasm": "sha256-EygxCkf65CxVyU8u0TInma3S4u8y2ThjchXgAnj4iic="
+      "BusApp.wasm": "sha256-rhEuKBeuZislmpCrwGC2pxOiYfXjsUhXaLZUHlLM2Rw="
     },
     "pdb": {
-      "BusApp.pdb": "sha256-IQqr6odyqqgWAwqklGXrQdii5PLsJaEKo/1lRQt+jnc="
+      "BusApp.pdb": "sha256-5KZbwisGpHcQcUCFSFGbZKhDZF4PKGT2PDsXCW+Gs6A="
     }
   },
   "cacheBootResources": true,

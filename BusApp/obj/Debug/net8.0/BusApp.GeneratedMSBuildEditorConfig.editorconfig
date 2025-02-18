@@ -42,6 +42,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/rwema/Documents/projects/Bus App/BusApp/Pages/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUm91dGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/rwema/Documents/projects/Bus App/BusApp/Pages/SignUpModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2lnblVwTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/rwema/Documents/projects/Bus App/BusApp/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

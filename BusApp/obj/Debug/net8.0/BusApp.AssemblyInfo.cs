@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BusApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4b985020244489e1c5937d28edf435fdd7b94bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48710b330c4ba03635aeeaf5af9939c05ce801cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("BusApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BusApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

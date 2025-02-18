@@ -1,12 +1,21 @@
+@using Syncfusion.Blazor
+@using Syncfusion.Blazor.Calendars
+
 <EditForm Model = "routeInfo" OnValidSubmit="HandleValidSubmit">
     <div class="mb-3 mt-3">
-        <label for="start-location" class="form-labe">Start Location</label>
-        <input type="text" class="form-control" id="start-location" placeholder="Enter Start Location" @bind-value="routeInfo.StartLocation">
+        <label for="start-location" class="form-label">Start Location</label>
+        <input type="text" class="form-control" id="start-location" placeholder="Enter Start Location" @bind="routeInfo.StartLocation">
     </div>
     <div class="mb-3 mt-3">
-        <label for="final-location" class="form-labe">Final Location</label>
-        <input type="text" class="form-control" id="final-location" placeholder="Enter Final Location" @bind-value="routeInfo.FinalLocation">
+        <label for="final-location" class="form-label">Final Location</label>
+        <input type="text" class="form-control" id="final-location" placeholder="Enter Final Location" @bind="routeInfo.FinalLocation">
     </div>
+    <div class="mb-3 mt-3">
+        <label for="departure-time" class="form-label">Departure TIme</label>
+        <SfDateTimePicker TValue="DateTime?" id="departure-time" @bind-Value="routeInfo.DepartureTime"></SfDateTimePicker>
+    </div>
+    
+    <button class="btn btn-primary" type="submit">Submit</button>
 </EditForm>
 
 @code
@@ -17,6 +26,7 @@
     {
         public double StartLocation {get; set;}
         public double FinalLocation {get; set;}
+        public DateTime? DepartureTime;
     }
 
     private void HandleValidSubmit()
