@@ -12,7 +12,7 @@
     </div>
     <div class="mb-3 mt-3">
         <label for="departure-time" class="form-label">Departure TIme</label>
-        <SfDateTimePicker TValue="DateTime?" id="departure-time" @bind-Value="routeInfo.DepartureTime"></SfDateTimePicker>
+        <input type="time" class="form-control" id="departure-time" @bind="routeInfo.DepartureTime">
     </div>
     
     <button class="btn btn-primary" type="submit">Submit</button>

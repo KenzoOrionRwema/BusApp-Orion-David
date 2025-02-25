@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BusApp",
   "resources": {
-    "hash": "sha256-DNpZ2he0C21iOyuIduI3tNOzb/QRlS0i1ePVBC3jnio=",
+    "hash": "sha256-AFMfZbIIA2+Xh+OOhlsyry/h6gb7OWVshoCTuobQPPg=",
     "jsModuleNative": {
       "dotnet.native.8.0.12.tyyvge7e44.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -213,10 +213,10 @@
       "mscorlib.wasm": "sha256-QoC5hTKpDNO6efLnEvYwV9OJBXvYRq8/1yGhNZKiNCw=",
       "netstandard.wasm": "sha256-JT2F4bYWJpaSGq+iD0ITLpWxsDhMUjhqje9RpBtTg7w=",
       "System.Private.CoreLib.wasm": "sha256-fvIPBcvgvsRuWrKi2LGQsLYvcKUSnyIuBUsE3LJu/0Y=",
-      "BusApp.wasm": "sha256-rhEuKBeuZislmpCrwGC2pxOiYfXjsUhXaLZUHlLM2Rw="
+      "BusApp.wasm": "sha256-MusF0uwkLKxTMJ7Gf1VX0EuMsqNg5Qluw26xlS1At0Q="
     },
     "pdb": {
-      "BusApp.pdb": "sha256-5KZbwisGpHcQcUCFSFGbZKhDZF4PKGT2PDsXCW+Gs6A="
+      "BusApp.pdb": "sha256-0QwbZxlg3i/qfrZ4WXQtzZlYWB1P0Mu4rBpIKhtcfWo="
     }
   },
   "cacheBootResources": true,
